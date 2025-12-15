@@ -1,6 +1,6 @@
 # Supriya Baskaran
 <h1 align="center">Hi 👋, I'm Supriya Baskaran</h1>
-<h3 align="center">ECE Student | AI & ML Enthusiast | Web Designer | Embedded & IoT Explorer 🚀</h3>
+<h3 align="center">ECE Student | Embedded & IoT Enthusiast | Front-End Web Developer | AI Chatbot Innovator 🚀</h3>
 
 ---
 
